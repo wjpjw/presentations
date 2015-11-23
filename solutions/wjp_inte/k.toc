@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Abstract}{3}{0}{1}
+\beamer@sectionintoc {2}{Facts about Implementations}{4}{0}{2}
+\beamer@sectionintoc {3}{Perspectives of Designs}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{Buildability}{17}{0}{3}
+\beamer@subsectionintoc {3}{2}{Universal Interface}{29}{0}{3}
+\beamer@subsectionintoc {3}{3}{Reusable Composites}{35}{0}{3}
+\beamer@sectionintoc {4}{Acknowledgements}{37}{0}{4}

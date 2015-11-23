@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Abstract}{3}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{7}{0}{2}
+\beamer@sectionintoc {3}{Stakeholder-oriented Goal-modeling Framework—SoF}{8}{0}{3}
+\beamer@subsectionintoc {3}{1}{SoF Process}{8}{0}{3}
+\beamer@subsectionintoc {3}{2}{Structured Text in Nature Language applied in SoF}{27}{0}{3}
+\beamer@subsectionintoc {3}{3}{SoF Annotated Goal Tree Model}{33}{0}{3}
+\beamer@subsectionintoc {3}{4}{Scope of SoF}{38}{0}{3}
+\beamer@sectionintoc {4}{SoF Case Study}{43}{0}{4}
+\beamer@subsectionintoc {4}{1}{Background of SDMS}{43}{0}{4}
+\beamer@subsectionintoc {4}{2}{Structured Specification of Stakeholders’Perspectives}{45}{0}{4}
+\beamer@subsectionintoc {4}{3}{SoF Annotated Goal Tree Model}{56}{0}{4}
+\beamer@sectionintoc {5}{Discussion}{75}{0}{5}

@@ -1,0 +1,145 @@
+% Copyright 2007 by Till Tantau
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+%
+% See the file doc/licenses/LICENSE for more details.
+
+
+
+\documentclass{beamer}
+
+%
+% DO NOT USE THIS FILE AS A TEMPLATE FOR YOUR OWN TALKS!!
+%
+% Use a file in the directory solutions instead.
+% They are much better suited.
+%
+
+
+% Setup appearance:
+
+\usetheme{Darmstadt}
+\usefonttheme[onlylarge]{structurebold}
+\setbeamerfont*{frametitle}{size=\normalsize,series=\bfseries}
+\setbeamertemplate{navigation symbols}{}
+
+
+% Standard packages
+
+\usepackage[english]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+
+\usepackage{fontspec}
+\usepackage{xeCJK}       
+\usepackage{graphicx}
+
+% Setup TikZ
+
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\tikzstyle{block}=[draw opacity=0.7,line width=1.4cm]
+
+
+% Author, Title, etc.
+
+\title[Title] 
+{
+  Abstract:~~~
+}
+
+\author[Gramm, Hartman, Nierhoff, Sharan, Tantau]
+{
+  Author1\inst{1} \and
+  Author2\inst{2} \and
+  \textcolor{green!50!black}{Till~TantauAuthor3}\inst{3}
+}
+
+\institute[Institute Name]
+{
+  \inst{1}%
+  University 1, Germany
+  \and
+  \vskip-2mm
+  \inst{2}%
+  University 2, Israel
+  \and
+  \vskip-2mm
+  \inst{3}%
+  University 3, Germany
+}
+
+\date[WABI 2014]
+{2014.3.23}
+
+% The main document
+
+\begin{document}
+\setromanfont{SimSun}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+  \tableofcontents
+\end{frame}
+
+
+\section{Introduction}
+
+\subsection{The Model and the Problem}
+
+\begin{frame}{What is haplotyping and why is it important?}
+  You hopefully know this after the previous three talks\dots
+\end{frame}
+
+\begin{frame}[t]{General formalization of haplotyping.}
+  \begin{block}{Inputs}
+    \begin{itemize}
+    \item A \alert{genotype matrix} $G$.
+    \item The \alert{rows} of the matrix are \alert{taxa / individuals}.
+    \item The \alert{columns} of the matrix are \alert{SNP sites /
+        characters}. 
+    \end{itemize}
+  \end{block}
+  \begin{block}{Outputs}
+    \begin{itemize}
+    \item A \alert{haplotype matrix} $H$.
+    \item Pairs of rows in $H$ \alert{explain} the rows of $G$.
+    \item The haplotypes in $H$ are \alert{biologically plausible}. 
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\section{Bad News: Hardness Results}
+
+\subsection{Hardness of PP-Partitioning of Haplotype Matrices}
+
+\section*{Summary}
+
+\begin{frame}
+  \frametitle<presentation>{Summary}
+  \begin{itemize}
+  \item
+    Finding optimal pp-partitions is \alert{intractable}. 
+  \item
+    It is even intractable to find a pp-partition when \alert{just two 
+      noncontiguous  blocks are known to suffice}.
+  \item
+    For perfect \alert{path} phylogenies, optimal partitions can be
+    computed \alert{in polynomial time}.
+  \end{itemize}
+\end{frame}
+
+
+\appendix
+\section*{Appendix}
+%appendix frames
+\end{document}
+
+

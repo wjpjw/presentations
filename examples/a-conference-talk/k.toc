@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{The Model and the Problem}{3}{0}{1}
+\beamer@sectionintoc {2}{Bad News: Hardness Results}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Hardness of PP-Partitioning of Haplotype Matrices}{5}{0}{2}

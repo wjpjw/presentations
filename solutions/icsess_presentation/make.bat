@@ -1,0 +1,2 @@
+xelatex k.tex
+	

@@ -1,0 +1,30 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Abstract}{3}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Goal of IA32OS}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Scope of IA32OS}{8}{0}{2}
+\beamer@sectionintoc {3}{ADD Process of IA32OS}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{ADD Input}{11}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{1}{Functional Requirements}{13}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{2}{Design Constraints}{16}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{3}{Quality Attributes}{17}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{4}{Choose an Element of the System to Decompose}{18}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{5}{Quality Attribute Specified In 6-elements Form}{19}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{6}{Design Decisions}{22}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{7}{Decomposition}{25}{0}{3}
+\beamer@subsectionintoc {3}{2}{The 2nd Iteration}{26}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{1}{Choose an Element of the System to Decompose}{27}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{2}{Quality Attribute Specified In 6-element Form}{28}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{3}{Design Decisions}{32}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{4}{Decomposition}{33}{0}{3}
+\beamer@subsectionintoc {3}{3}{The 3rd Iteration}{34}{0}{3}
+\beamer@subsubsectionintoc {3}{3}{1}{Choose an Element of the System to Decompose}{35}{0}{3}
+\beamer@subsubsectionintoc {3}{3}{2}{Quality Attribute Specified In 6-element Form}{36}{0}{3}
+\beamer@subsubsectionintoc {3}{3}{3}{Design Decisions}{37}{0}{3}
+\beamer@subsubsectionintoc {3}{3}{4}{Decomposition}{38}{0}{3}
+\beamer@sectionintoc {4}{Architecture Models}{39}{0}{4}
+\beamer@sectionintoc {5}{ATAM Evaluation}{44}{0}{5}
+\beamer@subsectionintoc {5}{1}{Utility Tree}{44}{0}{5}
+\beamer@subsectionintoc {5}{2}{List of Decisions}{46}{0}{5}
+\beamer@subsectionintoc {5}{3}{Scene Analysis}{49}{0}{5}

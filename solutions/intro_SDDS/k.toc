@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Our Purpose}{3}{0}{1}
+\beamer@sectionintoc {2}{Our Proposal}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{How we can specify a class?}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{How can we specify a class from its source code?}{16}{0}{2}
+\beamer@subsectionintoc {2}{3}{Statecharts Checking}{35}{0}{2}
+\beamer@sectionintoc {3}{Q\&A}{39}{0}{3}

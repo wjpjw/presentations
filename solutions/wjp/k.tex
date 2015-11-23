@@ -1,0 +1,80 @@
+﻿\documentclass{beamer}
+% AnnArbor  Antibes  Bergen  Berkeley  Berlin  Boadilla  CambridgeUS  Copenhagen  Darmstadt  Dresden  Frankfurt  Goettingen  Hannover  Ilmenau  JuanLesPins  Luebeck  Madrid  Malmoe  Marburg  Montpellier  PaloAlto  Pittsburgh  Rochester  Singapore  Szeged  Warsaw  boxes  default 
+\mode<presentation>
+{
+  \usetheme{Antibes}
+  \setbeamercovered{transparent}
+}
+
+\usepackage[english]{babel}
+\usepackage{times}
+\usepackage{graphicx}           
+\usepackage{xeCJK}       
+\usepackage{fontspec}
+\setsansfont{SimSun}
+
+\title[毕业论文答辩] 
+{}
+
+\subtitle
+{}
+
+\author[Author] 
+{吴继鹏}
+
+\institute[Universities of Somewhere and Elsewhere] 
+{
+  Software Institute\\
+  Nanjing University
+}
+
+\date[AFP 2003]
+{Architecture Final Presentations, 2014}
+
+\subject{Theoretical Computer Science}
+\AtBeginSubsection[]
+{
+  \begin{frame}<beamer>{Outline}
+    \tableofcontents[currentsection,currentsubsection]
+  \end{frame}
+}
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+  \tableofcontents
+\end{frame}
+
+\section{Abstract}
+\begin{frame}{这篇报告包括：}
+  \begin{itemize}
+  \end{itemize}
+\end{frame}  
+
+\section{Introduction}
+\begin{frame}
+  我们选择的项目是一个基于IA32硬件平台的操作系统内核，该项目的逻辑复杂度足以支撑严肃的体系结构方法的使用与验证。
+\end{frame}
+\subsection{Goal of IA32OS}
+\begin{frame}
+  \begin{itemize}
+  \item 如果我们的目标仅仅是熟悉ADD与ATAM的应用，那么只需要按照范例与指导步骤完成各阶段工作即可，但是这种非创造性工作并不意味着工作者真正理解其意义。
+  \item 在上一次应用ADD与ATAM方法时，我们已经初步熟悉了它们的使用，但是仍然对其必要性、有效性和优越性缺乏认识。
+    \begin{itemize}
+    \item 举个具体的例子，当我们不理解[1]作者的真实意图时，介绍自己项目的功能需求仅仅是因为作业中有这个要求，而当我们理解了ADD的真实意图后，我们就自然而然地想要在展示ADD过程前介绍自己项目的功能需求，因为功能需求是ADD first iteration的输入之一。
+    \end{itemize}
+  \end{itemize}
+\end{frame}
+\begin{frame}
+  \begin{itemize}
+  \item 想要深入理解体系结构方法，可以将先验的基于直觉的判断\footnote{可以参见文档中Section 4中的基于直觉设计的体系结构模型}与基于现有的完善方法论的工作成果进行比较，从而得出应用现有的体系结构设计与评审过程方法(ADD，ATAM)的有效性。
+  \item 我们的项目最终成果里会包括基于直觉的体系结构设计与基于严肃体系结构方法指导的设计这两种原型kernel的代码，够包含完整的Makefile和构建环境、调试环境搭建说明。
+  \end{itemize}
+\end{frame}
+
+\end{document}
+
+

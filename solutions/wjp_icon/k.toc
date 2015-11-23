@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Abstract}{3}{0}{1}
+\beamer@sectionintoc {2}{移动文本块}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{图标设计}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{图标评价}{6}{0}{2}
+\beamer@sectionintoc {3}{插入文本块}{8}{0}{3}
+\beamer@subsectionintoc {3}{1}{图标评价}{9}{0}{3}
+\beamer@sectionintoc {4}{复制文本块}{11}{0}{4}
+\beamer@sectionintoc {5}{查看临时存储的文本}{13}{0}{5}
+\beamer@sectionintoc {6}{图标组评价}{15}{0}{6}
+\beamer@subsectionintoc {6}{1}{对比组的区别}{15}{0}{6}
+\beamer@subsectionintoc {6}{2}{对比组的关联}{18}{0}{6}

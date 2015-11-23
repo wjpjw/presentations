@@ -1,0 +1,11 @@
+\BOOKMARK [2][]{Outline0.1}{Abstract}{}% 1
+\BOOKMARK [2][]{Outline0.2}{基于状态机模型数据抽象的形式化规格方法}{}% 2
+\BOOKMARK [3][]{Outline0.2.1.7}{相关研究与理论基础}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.24}{我们的形式化规格方法}{Outline0.2}% 4
+\BOOKMARK [2][]{Outline0.3}{项目背景、需求分析和概要设计}{}% 5
+\BOOKMARK [3][]{Outline0.3.1.39}{项目背景}{Outline0.3}% 6
+\BOOKMARK [3][]{Outline0.3.2.44}{需求分析}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.3.46}{概要设计}{Outline0.3}% 8
+\BOOKMARK [2][]{Outline0.4}{状态图可视化建模的详细设计与实现}{}% 9
+\BOOKMARK [3][]{Outline0.4.1.49}{详细设计}{Outline0.4}% 10
+\BOOKMARK [3][]{Outline0.4.2.56}{重要算法实现}{Outline0.4}% 11
